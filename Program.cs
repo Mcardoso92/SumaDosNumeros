@@ -7,7 +7,7 @@ namespace EJERCICIO_2._1
         static void Main(string[] args)
         {
             //PASO 0: DECLARACION DE VARIABLES
-            //TIPO DE DATO: INT, FLOAT, CHAR, BOOL
+            
             int N1, N2, resultado;
 
             //PASO 1: PEDIR VALORES
